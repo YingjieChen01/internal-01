@@ -1,4 +1,2 @@
 # Welcome to internal-01!
-
-0001
-gogogo
+let us do it
