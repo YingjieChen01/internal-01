@@ -4,3 +4,4 @@ let us do it
 pass ok
 say yes
 000
+666
